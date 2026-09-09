@@ -15,7 +15,7 @@
  
 ## 2-2. 가. 파일 탐색기
  data  doc  src  test
-
+탐색기에서 만든 폴더나 파일을 터미널의 명령어를 이용해 똑같이 찾고 확인할 수 있다.
 ## 2-2. 나. 검색
  - Aa off : 400 results in 2 files
  - Aa on : 399 results in 1 file
