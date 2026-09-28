@@ -1,0 +1,7 @@
+total 148
+-rw-rw-rw- 1 vscode vscode 151191 Jun 27  2025 alice.txt
+total 4
+-rw-rw-rw- 1 vscode vscode 67 Sep 28 06:38 list.txt
+total 8
+-rw-rw-rw- 1 vscode vscode  51 Sep 28 06:39 err.txt
+-rw-rw-rw- 1 vscode vscode 127 Sep 28 06:38 list.txt
